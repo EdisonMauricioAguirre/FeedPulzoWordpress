@@ -14,7 +14,7 @@ Este plugin genera un feed personalizado para el sitio web de Pulzo. El feed se 
 
 ## Uso
 
-Una vez instalado y activado el plugin, se generará automáticamente un feed personalizado en formato RDF en la siguiente URL: `https://tusitio.com/feed/feed-personalizado`. Reemplaza "tusitio.com" con el nombre de tu dominio.
+Una vez instalado y activado el plugin, se generará automáticamente un feed personalizado en formato RDF en la siguiente URL: `https://tusitio.com/feed-personalizado`. Reemplaza "tusitio.com" con el nombre de tu dominio.
 
 ## Configuración
 
