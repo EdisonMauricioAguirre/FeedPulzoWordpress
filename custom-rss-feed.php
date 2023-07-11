@@ -1,7 +1,10 @@
 <?php
 /*
-Plugin Name: Feed Personalizado RDF
-Description: Plugin para generar un feed personalizado en formato RDF Site Summary 1.0.
+Plugin Name: Feed Personalizado RDF - Pulzo
+Description: Plugin para generar un feed personalizado para pulzo
+Version: 1.0
+Author: Mauricio Aguirre
+Author URI: https://mauroaguirre.com
 */
 
 // Agregar hook para generar el feed personalizado
