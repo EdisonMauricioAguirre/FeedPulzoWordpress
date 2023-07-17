@@ -69,7 +69,7 @@ function generar_feed() {
           $image_url = wp_get_attachment_image_src($image_id, 'full');
           $image_description = get_post_meta($image_id, '_wp_attachment_image_alt', true);
           echo '<url>' . $image_url[0] . '</url>';
-          echo '<copyright>' . $image_description . '</copyright>';
+		echo '<copyright>' . ($image_description ? $image_description : 'Fotografia archivo ElDiario.com.co') . '</copyright>';
 
         }
       ?>
